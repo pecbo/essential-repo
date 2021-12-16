@@ -9,3 +9,6 @@ mod 'elastic-logstash', '6.0.2'
 mod 'puppetlabs-java', '2.4.0'
 mod 'pecbo-elk',
   :git => 'https://github.com/pecbo/pecbo-elk.git'
+
+mod 'samuelson/dockeragent'
+mod 'puppetlabs/docker'
