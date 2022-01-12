@@ -9,3 +9,10 @@ mod 'elastic-logstash', '6.0.2'
 mod 'puppetlabs-java', '2.4.0'
 mod 'pecbo-elk',
   :git => 'https://github.com/pecbo/pecbo-elk.git'
+
+# puppetdb
+mod 'puppetlabs-puppetdb', '6.0.2'
+mod 'puppetlabs-inifile', '2.2.0'
+mod 'puppetlabs-postgresql', '5.4.0'
+mod 'puppetlabs-concat', '4.2.1'
+mod 'puppetlabs-firewall', '1.12.0'
